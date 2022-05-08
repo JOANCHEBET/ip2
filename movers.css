@@ -13,6 +13,8 @@
     background-color: black;
     display: flex;
     justify-content:space-between;
+    height: 300px;
+    width: auto;
 
 
   }
@@ -22,6 +24,14 @@
    display: flex;
    
  }
+ .home{
+   height: 300px;
+   width: 200px;
+ }
+ .holders{
+   padding:20px;
+ }
+
 
   
   
