@@ -84,12 +84,10 @@ ul li {
 }
 .column1{
   padding-left: 400px;
+  display: grid;
+  grid-template-columns: repeat(3 times)
+  grid gap:5px;
 }
-.column2{
-  padding-left: 500px;
-}
-.column3{
-  padding-right: 200px;
-}
+
   
   
