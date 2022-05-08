@@ -31,6 +31,33 @@
  .holders{
    padding:20px;
  }
+ li {
+	list-style-type: none!important;
+}
+
+ul {
+	margin-bottom: 20px;
+	margin-left: 10px;
+
+}
+
+  
+}
+
+ul li {
+
+	font-family:'Courier New', Courier, monospace
+	font-size: 10px;
+	font-size: 1.0rem;
+	font-weight: 100;
+	letter-spacing: 0.5px;
+	text-transform: lowercase;
+
+}
+
+.checkmarks2{
+  align-content: center;
+}
 
 
   
