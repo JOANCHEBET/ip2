@@ -59,8 +59,7 @@ ul li {
   align-content: center;
 }
 .similar{
-  height: 300px;
-   width: 200px}
+  display: flex;
 
   
   
