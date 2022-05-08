@@ -60,6 +60,12 @@ ul li {
 }
 .similar{
   display: flex;
-
+  padding: 10px;}
+.air{
+  display: flex;
+}
+.button{
+  background-color:  #FFAC12;
+}
   
   
