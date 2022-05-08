@@ -14,8 +14,10 @@ body{
   }
   
   nav{
-    background-color: white;
-    display: flex;
+    background-color: black;
+    flex-direction: row;
+    float: right;
+    padding: 20px;
     justify-content:space-between;
     overflow: hidden;
   }
@@ -56,7 +58,7 @@ body{
   
   nav > .thelinks > ul > li > .log in{
     padding: 10px;
-    color: white;
+    color;
     background-color: yellow;
   }
   
@@ -129,6 +131,7 @@ justify-content: center;
 
 .section1 > .rightside > button{
   background-color: black;
+  padding: 5px;
   color:yellow;
   
 }
